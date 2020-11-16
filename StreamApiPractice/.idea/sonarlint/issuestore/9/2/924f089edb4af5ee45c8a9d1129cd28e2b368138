@@ -1,0 +1,32 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¹ÒÍøÿÿÿÿ
+B
+java:S16120",Replace this lambda with a method reference.(†ÉÄ
+G
+java:S1612",Replace this lambda with a method reference.(Ü¹ÒÍøÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "evenNumbers".(ØƒÜÊ
+F
+java:S1481"0Remove this unused "evenNumbers" local variable.(ØƒÜÊ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+P
+java:S14815"5Remove this unused "vowelFirstLetter" local variable.(«ü£§úÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "squaredNumbers".(“ÉïÇ
+_
+java:S18545"DRemove this useless assignment to local variable "vowelFirstLetter".(«ü£§úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¹ÒÍøÿÿÿÿ
+M
+java:S3958:"2Refactor the code so this stream pipeline is used.(•·¬şÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(†ÉÄ
+@
+java:S21161"%Use "Arrays.toString(array)" instead.(ßûÑÍüÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+G
+java:S1612",Replace this lambda with a method reference.(Ü¹ÒÍøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ßûÑÍüÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(üé¾Âúÿÿÿÿ
+I
+java:S1481"3Remove this unused "squaredNumbers" local variable.(“ÉïÇ
