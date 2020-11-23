@@ -1,0 +1,12 @@
+
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌèš8¨üÜ’ß.
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÁñ¨øÿÿÿÿ8İĞ—”ß.
+i	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‹÷j8İĞ—”ß.
+l	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‹÷j8İĞ—”ß.
+{	java:S116"ZRename this field "proba_transient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÙÌÊÿÿÿÿÿ8Â¨–”ß.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(‡œ£ÿÿÿÿÿ8°›„”ß.
+U
+java:S1128"3Remove this unused import 'com.sun.istack.NotNull'.(‡œ£ÿÿÿÿÿ8Ù¬”ß.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø°ÕØúÿÿÿÿ8¨üÜ’ß.
+l	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M8¨üÜ’ß.
